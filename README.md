@@ -1,31 +1,52 @@
 # 📊 Sales Performance Dashboard using Power BI
 
-## Overview
-This repository contains a **Sales Performance Dashboard** developed in Power BI. The dashboard provides essential insights into a company’s sales data, enabling users to analyze trends, segment customers, and assess profitability across regions and products. It empowers businesses to make data-driven decisions and optimize their sales strategies effectively. 🚀
+## 🌟 Project Statement
+Business Intelligence is a powerful solution that empowers companies to make informed decisions in their business processes. It serves as a tool to effectively organize and transform data into actionable information, forming the foundation of intelligent decision-making. With the right business intelligence solution, companies can actively monitor their performance and swiftly respond to the ever-changing external business environment.
 
-## Key Features
-- 📈 **Sales Analysis**: Explore sales data over time, by product, category, and region.
-- 👥 **Customer Segmentation**: Understand customer behavior and target specific segments.
-- 💰 **Profitability Insights**: Assess product and regional profitability to enhance decision-making.
-- 🔍 **Interactive Data Filtering**: Customize data views in real-time for in-depth analysis.
+## 📈 Outcomes
+The Sales Performance Dashboard enhances the flow of information between visualized data and users. By utilizing the dashboard, users can gain clarity on sales performance for the current month. Furthermore, the structured steps outlined in this project serve as a valuable guide for departments to improve and adapt in the future.
 
-## Dataset
-The dataset used in this dashboard includes columns such as:
-- `OrderDate`, `OrderID`, `CustomerID`, `CustomerName`, `CustomerLocation`
-- `ProductID`, `ProductName`, `ProductCategory`, `SalespersonID`, `Salesperson`
-- `Quantity`, `UnitPrice`, `SalePrice`, `DiscountPercentage`, `Total_Amount`, `ProfitAmount`, `CustomerRating`
+## 🛠️ Modules to be Implemented
+This project is divided into four key modules, each aimed at building a comprehensive Sales Performance Dashboard. 
 
-## Technologies
-- **Power BI**: Used for data visualization and dashboard creation. 🖥️
-- **DAX**: Implemented for data transformation and calculated measures. 📊
-- **Power Query**: Used for data extraction, transformation, and loading (ETL). 🔄
+### Milestone 1: Weeks 1-3
+#### Module 1: Data Preparation
+**Objective:** Prepare the sales data for analysis.  
+**Tasks Completed:**
+- ✅ Imported sales data into Power BI from various sources (Excel, CSV, SQL).
+- ✅ Cleaned and transformed data, handling missing values and creating calculated columns (e.g., total sales).
+- ✅ Established relationships between tables to link products, customers, and sales data.
 
-## Getting Started
-1. **Clone the Repository**: Clone this repository to your local machine.
-2. **Data Source**: Load the provided dataset into Power BI.
-3. **Dashboard Exploration**: Interact with the visualizations to filter, drill down, and explore insights.
+### Upcoming Milestones
+#### Milestone 2: Weeks 4-6
+#### Module 2: Basic Visualizations
+**Objective:** Create fundamental visualizations to represent sales data.
+- Create a clustered column chart to compare sales across different regions.
+- Use a line chart to depict sales trends over time.
+- Design a pie chart to illustrate sales distribution across product categories.
 
-## Usage
-This dashboard serves as a powerful tool for business analysts, sales managers, and decision-makers seeking to gain actionable insights into sales performance and customer behavior. 📈
+#### Milestone 3: Weeks 7-8
+#### Module 3: Advanced Sales Analysis
+**Objective:** Leverage advanced features to analyze sales performance.
+- Develop a measure to calculate Sales Growth Rate using DAX.
+- Implement a waterfall chart to analyze each region's contribution to overall sales.
+- Add slicers to filter data by region, product category, and time period.
+
+#### Milestone 4: Weeks 9-10
+#### Module 4: Final Dashboard and Presentation
+**Objective:** Compile all visualizations into a cohesive final dashboard.
+- Arrange visuals for a comprehensive view of sales performance.
+- Incorporate interactive elements like tooltips and bookmarks to guide users through the analysis.
+- Prepare a presentation focusing on key sales trends and actionable recommendations.
+
+## 🚀 Getting Started
+This project is a work in progress. The initial phase of data preparation has been completed, and the upcoming milestones will further enhance the dashboard's capabilities. Stay tuned for updates as we move towards creating a robust Sales Performance Dashboard!
+
+## 🤝 Contributing
+Contributions are welcome! If you have suggestions for improvements or new features, feel free to open an issue or submit a pull request. Let's collaborate to make this dashboard even more insightful!
+
+## 📜 License
+This project is licensed under the MIT License.
+
 
 
