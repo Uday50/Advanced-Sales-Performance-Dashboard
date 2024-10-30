@@ -45,8 +45,5 @@ This project is a work in progress. The initial phase of data preparation has be
 ## 🤝 Contributing
 Contributions are welcome! If you have suggestions for improvements or new features, feel free to open an issue or submit a pull request. Let's collaborate to make this dashboard even more insightful!
 
-## 📜 License
-This project is licensed under the MIT License.
-
 
 
