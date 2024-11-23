@@ -11,7 +11,8 @@ This project is divided into four key modules, each aimed at building a comprehe
 
 ### Milestone 1: Weeks 1-3
 #### Module 1: Data Preparation
-**Objective:** Prepare the sales data for analysis.  
+**Objective:** Prepare the sales data for analysis.
+
 **Tasks Completed:**
 - ✅ Imported sales data into Power BI from various sources (Excel, CSV, SQL).
 - ✅ Cleaned and transformed data, handling missing values and creating calculated columns (e.g., total sales).
@@ -30,6 +31,7 @@ This project is divided into four key modules, each aimed at building a comprehe
 #### Milestone 3: Weeks 7-8
 #### Module 3: Advanced Sales Analysis
 **Objective:** Leverage advanced features to analyze sales performance.
+
 **Tasks Completed:**
 - ✅ Develop a measure to calculate Sales Growth Rate using DAX.
 - ✅ Implement a waterfall chart to analyze each region's contribution to overall sales.
@@ -38,6 +40,7 @@ This project is divided into four key modules, each aimed at building a comprehe
 #### Milestone 4: Weeks 9-10
 #### Module 4: Final Dashboard and Presentation
 **Objective:** Compile all visualizations into a cohesive final dashboard.
+
 **Tasks Completed:**
 - ✅ Arrange visuals for a comprehensive view of sales performance.
 - ✅ Incorporate interactive elements like tooltips and bookmarks to guide users through the analysis.
