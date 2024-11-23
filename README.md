@@ -21,23 +21,26 @@ This project is divided into four key modules, each aimed at building a comprehe
 #### Milestone 2: Weeks 4-6
 #### Module 2: Basic Visualizations
 **Objective:** Create fundamental visualizations to represent sales data.
-- Create a clustered column chart to compare sales across different regions.
-- Use a line chart to depict sales trends over time.
-- Design a pie chart to illustrate sales distribution across product categories.
+**Tasks Completed:**
+- ✅ Create a clustered column chart to compare sales across different regions.
+- ✅ Use a line chart to depict sales trends over time.
+- ✅ Design a pie chart to illustrate sales distribution across product categories.
 
 #### Milestone 3: Weeks 7-8
 #### Module 3: Advanced Sales Analysis
 **Objective:** Leverage advanced features to analyze sales performance.
-- Develop a measure to calculate Sales Growth Rate using DAX.
-- Implement a waterfall chart to analyze each region's contribution to overall sales.
-- Add slicers to filter data by region, product category, and time period.
+**Tasks Completed:**
+- ✅ Develop a measure to calculate Sales Growth Rate using DAX.
+- ✅ Implement a waterfall chart to analyze each region's contribution to overall sales.
+- ✅ Add slicers to filter data by region, product category, and time period.
 
 #### Milestone 4: Weeks 9-10
 #### Module 4: Final Dashboard and Presentation
 **Objective:** Compile all visualizations into a cohesive final dashboard.
-- Arrange visuals for a comprehensive view of sales performance.
-- Incorporate interactive elements like tooltips and bookmarks to guide users through the analysis.
-- Prepare a presentation focusing on key sales trends and actionable recommendations.
+**Tasks Completed:**
+- ✅ Arrange visuals for a comprehensive view of sales performance.
+- ✅ Incorporate interactive elements like tooltips and bookmarks to guide users through the analysis.
+- ✅ Prepare a presentation focusing on key sales trends and actionable recommendations.
 
 ## 🚀 Getting Started
 This project is a work in progress. The initial phase of data preparation has been completed, and the upcoming milestones will further enhance the dashboard's capabilities. Stay tuned for updates as we move towards creating a robust Sales Performance Dashboard!
