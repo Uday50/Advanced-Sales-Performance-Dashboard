@@ -18,7 +18,6 @@ This project is divided into four key modules, each aimed at building a comprehe
 - ✅ Cleaned and transformed data, handling missing values and creating calculated columns (e.g., total sales).
 - ✅ Established relationships between tables to link products, customers, and sales data.
 
-### Upcoming Milestones
 #### Milestone 2: Weeks 4-6
 #### Module 2: Basic Visualizations
 **Objective:** Create fundamental visualizations to represent sales data.
