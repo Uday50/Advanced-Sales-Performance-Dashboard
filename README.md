@@ -21,6 +21,7 @@ This project is divided into four key modules, each aimed at building a comprehe
 #### Milestone 2: Weeks 4-6
 #### Module 2: Basic Visualizations
 **Objective:** Create fundamental visualizations to represent sales data.
+
 **Tasks Completed:**
 - ✅ Create a clustered column chart to compare sales across different regions.
 - ✅ Use a line chart to depict sales trends over time.
